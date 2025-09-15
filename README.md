@@ -28,4 +28,4 @@ The dataset was collected using two Franka Emika robotic arms performing activit
 In this paper, we specifically use the **multi-view video data** from the robotic arm experiments to evaluate our method.
 
 ## GPLv3 License
-this work is open source under the GPLv3 license, see the LICENSE file.
+This work is open source under the GPLv3 license, see the LICENSE file.
