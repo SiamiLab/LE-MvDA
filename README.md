@@ -8,7 +8,7 @@ LE-MvDA is a novel supervised dimensionality reduction method for multi-view cla
 
 ## 🔧 Pipeline
 
-![Multi-view Robot Activity Classification Pipeline](Images/Architecture.png)
+![Multi-view Robot Activity Classification Pipeline](Image/Architecture.png)
 
 **Figure:** Multi-view Robot Activity Classification Pipeline.  
 The framework consists of three main stages:
