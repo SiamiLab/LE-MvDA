@@ -20,4 +20,9 @@ The framework consists of three main stages:
 
 We use the **[RoboMNIST dataset](https://github.com/SiamiLab/RoboMNIST)** — a multimodal dataset for multi-robot activity recognition (MRAR) that integrates **WiFi Channel State Information (CSI)**, **video**, and **audio** data.
 
-The dataset was collected using two Frank
+The dataset was collected using two Franka Emika robotic arms performing activities, observed by:
+- **3 cameras** for multi-view video capture
+- **3 WiFi sniffers** to record CSI
+- **3 microphones** for distinct audio streams
+
+In this paper, we specifically use the **multi-view video data** from the robotic arm experiments to evaluate our method.
